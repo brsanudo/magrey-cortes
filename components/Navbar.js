@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-expand-md navbar-expand-sm navbar-expand-xs navbar-dark bg-danger">
       <div className="container">
-        <Link href="https://magrey-barber.vercel.app/">
+        <Link href="https://magrey.vercel.app/">
           <a className=" btn btn-outline-light">MAGREY</a>
         </Link>
         <button

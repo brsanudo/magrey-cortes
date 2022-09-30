@@ -54,37 +54,37 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Tonico para barba",
+    name: "Degradado",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio1.jpeg",
   },
   {
-    name: "Acondicionador",
+    name: "Degradado",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio2.jpg",
   },
   {
-    name: "Cera capilar",
+    name: "Degradado",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio3.png",
   },
   {
-    name: "Crema depiladora",
+    name: "Degradado",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio4.png",
   },
   {
-    name: "Gel",
+    name: "Degradado",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio5.jpeg",
   },
   {
-    name: "Cepillos",
+    name: "Degradado",
     description:
       "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem",
     image: "portfolio6.jpeg",

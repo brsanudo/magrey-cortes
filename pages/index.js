@@ -40,7 +40,7 @@ const Index = () => (
           <div className="card card-body bg-dark">
             <div className="row">
               <div className="col-md-12 my-2">
-                <h1 className="text-center text-light">Productos</h1>
+                <h1 className="text-center text-light">Cortes Magrey</h1>
               </div>
               {projects.map(({ name, description, image }, index) => (
                 <div className="col-md-4 p-2" key={index}>
@@ -59,8 +59,8 @@ const Index = () => (
 
               <div className="col-md-12 mt-4">
                 <div className="text-center">
-                  <Link href="/portfolio">
-                    <a className="btn btn-outline-light">Mas Productos</a>
+                  <Link href="/blog">
+                    <a className="btn btn-outline-light">Mas Cortes</a>
                   </Link>
                 </div>
               </div>
