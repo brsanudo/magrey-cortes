@@ -46,7 +46,6 @@ const Post = () => {
     <Layout title={router.query.title} footer={false}>
       <div className="text-center">
         <Image
-          className="img-fluid"
           src={currentPost.imageURL}
           alt="Picture of the author"
           width={400}
